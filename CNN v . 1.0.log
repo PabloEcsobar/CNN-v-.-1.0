@@ -1,0 +1,146 @@
+﻿  main.cpp
+D:\project\CNN v . 1.0\CNN v . 1.0\SCNN.h(19): warning C4305: 'initializing': truncation from 'double' to 'const float'
+D:\project\CNN v . 1.0\CNN v . 1.0\SCNN.h(149,57): message : while compiling class template member function 'SCNN<float>::SCNN(int,std::vector<int,std::allocator<int>> &)'
+D:\project\CNN v . 1.0\CNN v . 1.0\main.cpp(30,14): message : see reference to function template instantiation 'SCNN<float>::SCNN(int,std::vector<int,std::allocator<int>> &)' being compiled
+D:\project\CNN v . 1.0\CNN v . 1.0\main.cpp(30,26): message : see reference to class template instantiation 'SCNN<float>' being compiled
+D:\project\CNN v . 1.0\CNN v . 1.0\SCNN.h(20): warning C4305: 'initializing': truncation from 'double' to 'const float'
+D:\project\CNN v . 1.0\CNN v . 1.0\SCNN.h(21): warning C4305: 'initializing': truncation from 'double' to 'const float'
+D:\project\CNN v . 1.0\CNN v . 1.0\SCNN.h(22): warning C4305: 'initializing': truncation from 'double' to 'const float'
+D:\project\CNN v . 1.0\CNN v . 1.0\SCNN.h(150,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\project\CNN v . 1.0\CNN v . 1.0\SCNN.h(156,1): warning C4305: '=': truncation from 'double' to 'T_1'
+          with
+          [
+              T_1=float
+          ]
+D:\project\CNN v . 1.0\CNN v . 1.0\SCNN.h(833,33): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\project\CNN v . 1.0\CNN v . 1.0\SCNN.h(814,57): message : while compiling class template member function 'void SCNN<float>::learning(int,SCNN<float>::SCNNMethod)'
+D:\project\CNN v . 1.0\CNN v . 1.0\main.cpp(44,35): message : see reference to function template instantiation 'void SCNN<float>::learning(int,SCNN<float>::SCNNMethod)' being compiled
+D:\project\CNN v . 1.0\CNN v . 1.0\SCNN.h(860,33): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\project\CNN v . 1.0\CNN v . 1.0\SCNN.h(887,33): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\project\CNN v . 1.0\CNN v . 1.0\SCNN.h(914,33): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\project\CNN v . 1.0\CNN v . 1.0\SCNN.h(942,33): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\project\CNN v . 1.0\CNN v . 1.0\SCNN.h(974,33): warning C4244: 'argument': conversion from '_Ty' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\project\CNN v . 1.0\CNN v . 1.0\SCNN.h(1211,35): warning C4244: 'argument': conversion from 'T_1' to 'const unsigned __int64', possible loss of data
+          with
+          [
+              T_1=float
+          ]
+D:\project\CNN v . 1.0\CNN v . 1.0\SCNN.h(1197,46): message : while compiling class template member function 'void SCNN<float>::readDataAll(std::string)'
+D:\project\CNN v . 1.0\CNN v . 1.0\main.cpp(37,19): message : see reference to function template instantiation 'void SCNN<float>::readDataAll(std::string)' being compiled
+D:\project\CNN v . 1.0\CNN v . 1.0\SCNN.h(457,1): warning C4305: 'initializing': truncation from 'double' to 'T_1'
+          with
+          [
+              T_1=float
+          ]
+D:\project\CNN v . 1.0\CNN v . 1.0\SCNN.h(454,42): message : while compiling class template member function 'T_1 SCNN<T_1>::NormalDistribution(int)'
+          with
+          [
+              T_1=float
+          ]
+D:\project\CNN v . 1.0\CNN v . 1.0\SCNN.h(218,22): message : see reference to function template instantiation 'T_1 SCNN<T_1>::NormalDistribution(int)' being compiled
+          with
+          [
+              T_1=float
+          ]
+D:\project\CNN v . 1.0\CNN v . 1.0\SCNN.h(149,57): message : while compiling class template member function 'SCNN<float>::SCNN(int,std::vector<int,std::allocator<int>> &)'
+D:\project\CNN v . 1.0\CNN v . 1.0\main.cpp(30,14): message : see reference to function template instantiation 'SCNN<float>::SCNN(int,std::vector<int,std::allocator<int>> &)' being compiled
+D:\project\CNN v . 1.0\CNN v . 1.0\SCNN.h(463,8): warning C4244: '=': conversion from 'double' to 'T_1', possible loss of data
+          with
+          [
+              T_1=float
+          ]
+D:\project\CNN v . 1.0\CNN v . 1.0\SCNN.h(464,8): warning C4244: '=': conversion from 'double' to 'T_1', possible loss of data
+          with
+          [
+              T_1=float
+          ]
+D:\project\CNN v . 1.0\CNN v . 1.0\SCNN.h(465,48): warning C4244: 'return': conversion from 'double' to 'T_1', possible loss of data
+          with
+          [
+              T_1=float
+          ]
+D:\project\CNN v . 1.0\CNN v . 1.0\SCNN.h(541,26): warning C4244: '+=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\project\CNN v . 1.0\CNN v . 1.0\SCNN.h(526,30): message : while compiling class template member function 'void SCNN<float>::directPass(void)'
+D:\project\CNN v . 1.0\CNN v . 1.0\SCNN.h(835,15): message : see reference to function template instantiation 'void SCNN<float>::directPass(void)' being compiled
+D:\project\CNN v . 1.0\CNN v . 1.0\SCNN.h(746,41): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\project\CNN v . 1.0\CNN v . 1.0\SCNN.h(738,27): message : while compiling class template member function 'void SCNN<float>::RMSprop(void)'
+D:\project\CNN v . 1.0\CNN v . 1.0\SCNN.h(920,13): message : see reference to function template instantiation 'void SCNN<float>::RMSprop(void)' being compiled
+D:\project\CNN v . 1.0\CNN v . 1.0\SCNN.h(750,54): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\project\CNN v . 1.0\CNN v . 1.0\SCNN.h(770,41): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\project\CNN v . 1.0\CNN v . 1.0\SCNN.h(760,24): message : while compiling class template member function 'void SCNN<float>::Adam(void)'
+D:\project\CNN v . 1.0\CNN v . 1.0\SCNN.h(948,10): message : see reference to function template instantiation 'void SCNN<float>::Adam(void)' being compiled
+D:\project\CNN v . 1.0\CNN v . 1.0\SCNN.h(776,54): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\project\CNN v . 1.0\CNN v . 1.0\SCNN.h(797,41): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\project\CNN v . 1.0\CNN v . 1.0\SCNN.h(787,26): message : while compiling class template member function 'void SCNN<float>::AdamNM(void)'
+D:\project\CNN v . 1.0\CNN v . 1.0\SCNN.h(980,12): message : see reference to function template instantiation 'void SCNN<float>::AdamNM(void)' being compiled
+D:\project\CNN v . 1.0\CNN v . 1.0\SCNN.h(803,54): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\project\CNN v . 1.0\CNN v . 1.0\SCNN.h(486,31): warning C4244: '=': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+D:\project\CNN v . 1.0\CNN v . 1.0\SCNN.h(483,27): message : while compiling class template member function 'void SCNN<float>::SoftMax(void)'
+D:\project\CNN v . 1.0\CNN v . 1.0\SCNN.h(537,9): message : see reference to function template instantiation 'void SCNN<float>::SoftMax(void)' being compiled
+D:\project\CNN v . 1.0\CNN v . 1.0\SCNN.h(454,42): message : while compiling class template member function 'T_1 SCNN<T_1>::NormalDistribution(int)'
+          with
+          [
+              T_1=float
+          ]
+D:\project\CNN v . 1.0\CNN v . 1.0\SCNN.h(218,22): message : see reference to function template instantiation 'T_1 SCNN<T_1>::NormalDistribution(int)' being compiled
+          with
+          [
+              T_1=float
+          ]
+  CNN v . 1.0.vcxproj -> D:\project\CNN v . 1.0\x64\Debug\CNN v . 1.0.exe
